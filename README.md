@@ -4,16 +4,16 @@ To learn more, click following link [Brad traversy](https://youtu.be/NNpwqrvPyyU
 
 ![gif](./screenshots/countdown.gif)
 
-![1](./screenshots/1.png)
+![one](./screenshots/one.png)
 
-![1](./screenshots/1.png)
+![two](./screenshots/two.png)
 
-![3](./screenshots/3.png)
+![three](./screenshots/three.png)
 
-![4](./screenshots/4.png)
+![four](./screenshots/four.png)
 
-![5](./screenshots/5.png)
+![five](./screenshots/five.png)
 
-![6](./screenshots/6.png)
+![six](./screenshots/six.png)
 
-![7](./screenshots/7.png)
+![lunched](./screenshots/lunched.png)
