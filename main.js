@@ -1,7 +1,7 @@
 const countdown = document.querySelector('.countdown');
 
 // Set Lunch date(ms)
-const date = 'Jun 1, 2019 13:00:00';
+const date = 'Aug 17, 2021 13:00:00';
 const lunchDate = new Date(date).getTime();
 // Upadate every second
 const intvl = setInterval(() => {
