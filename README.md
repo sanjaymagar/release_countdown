@@ -1,4 +1,4 @@
-[Live Demo release countdown](https://sanjaymagar.github.io/release_countdown/)
+[Live Demo release countdown](https://sanjmgr.github.io/release_countdown/)
 
 This project is meant for product release countdown, by Brad Traversy. It is meant to learn design. Thanks for course.
 
